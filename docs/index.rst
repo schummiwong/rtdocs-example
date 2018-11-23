@@ -15,3 +15,6 @@ The wordcount program is a python script, which reads an input file and writes t
 
    usage
    contribution
+   some new features by wxd
+   some silly stuff by wxd
+   I love lists
